@@ -1,5 +1,6 @@
 # NumericMatrixProcessor
 Numeric Matrix Processor (JetBrains Academy's project)
+
 Available actions for matrices of any size:
 1. Add matrices
 2. Multiply matrix by a constant
