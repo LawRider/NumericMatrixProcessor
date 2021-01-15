@@ -10,3 +10,5 @@ Available actions for matrices of any size:
 6. Inverse matrix
 
 No NumPy is used, only built-in functions.
+
+It should be started from terminal by: python processor.py
