@@ -8,3 +8,5 @@ Available actions for matrices of any size:
 4. Transpose matrix
 5. Calculate a determinant
 6. Inverse matrix
+
+No NumPy is used, only built-in functions.
